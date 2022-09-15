@@ -1,8 +1,8 @@
 class Serializer
-    attribute :id
-    attribute :title
-    attribute :body
-    attribute :date
+    attr_writer :id
+    attr_writer :title
+    attr_writer :body
+    attr_writer :date
     
   def initialize(option = {})
   self.id = option[:id]

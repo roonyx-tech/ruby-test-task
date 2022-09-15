@@ -1,6 +1,6 @@
 require_relative "serializer"
 
 class CommentSerializer < Serializer
-  attribute :id
-  attribute :body
+ attr_writer :id
+ attr_writer :body
 end
