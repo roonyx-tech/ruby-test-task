@@ -1,3 +1,5 @@
+This is a solution for the following ruby test task [roonyx-tech/ruby-test-task](https://github.com/roonyx-tech/ruby-test-task)
+
 # Ruby interview task
 
 ### Overview
